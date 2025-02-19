@@ -32,7 +32,7 @@ body {
     color: white;
 }
 
-.wrapper__cocktails__container {
+.wrapper__cocktails-сontainer {
     margin-top: 20px;
     background-color: #000;
     border-radius: 20px;
@@ -56,7 +56,7 @@ body {
     align-items: center;
 }
 
-.cocktail-item {
+.wrapper__cocktail-item {
     display: flex;
     align-items: center;
     gap: 20px;
